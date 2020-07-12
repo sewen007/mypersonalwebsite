@@ -1,0 +1,23 @@
+{
+  "name": "seunwebsite",
+  "version": "1.0.0",
+  "description": "my personal website built from scratch",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sewen007/mypersonalwebsite.git"
+  },
+  "keywords": [
+    "seun",
+    "olulana"
+  ],
+  "author": "Seun Olulana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sewen007/mypersonalwebsite/issues"
+  },
+  "homepage": "https://github.com/sewen007/mypersonalwebsite#readme"
+}
